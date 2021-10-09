@@ -1,1 +1,2 @@
 # TeamBeta
+Statistics Learning Materials
